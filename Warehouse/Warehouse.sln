@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouse", "Warehouse\Warehouse.csproj", "{1EEE3C44-C425-4658-BD56-1CAC4E154427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EEE3C44-C425-4658-BD56-1CAC4E154427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EEE3C44-C425-4658-BD56-1CAC4E154427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EEE3C44-C425-4658-BD56-1CAC4E154427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EEE3C44-C425-4658-BD56-1CAC4E154427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
